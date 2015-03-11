@@ -1,0 +1,7 @@
+setup.py
+skat_util/gene_annotation_to_SSID.py
+skat_utilities.egg-info/PKG-INFO
+skat_utilities.egg-info/SOURCES.txt
+skat_utilities.egg-info/dependency_links.txt
+skat_utilities.egg-info/entry_points.txt
+skat_utilities.egg-info/top_level.txt
